@@ -1,8 +1,4 @@
-Here’s a detailed and well-structured `README.md` description for your **Campus Navigation Tool** project, written in Markdown:
 
----
-
-````markdown
 # 🧭 Campus Navigation Tool
 
 A Dijkstra-based pathfinding tool designed to compute and visualize the shortest path between two nodes in a **campus layout**. This project is implemented in C++ using STL containers such as `unordered_map`, `list`, `set`, and `vector`.
